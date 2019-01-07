@@ -1,0 +1,26 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_ACCOUNTS_MEETINGS_1_FROM_MEETINGS_TITLE'] = 'Reuniones';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_ACCOUNTS_MEETINGS_1_FROM_MEETINGS_TITLE'] = 'Reuniones';
+$mod_strings['LBL_ACCOUNTS_CALLS_1_FROM_CALLS_TITLE'] = 'Llamadas';
+$mod_strings['LBL_ACCOUNTS_OF_OFERTA_1_FROM_OF_OFERTA_TITLE'] = 'Oferta';
+$mod_strings['LBL_OF_OFERTA_ACCOUNTS_1_FROM_OF_OFERTA_TITLE'] = 'Oferta';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_ACCOUNTS_MEETINGS_1_FROM_MEETINGS_TITLE'] = 'Reuniones';
+$mod_strings['LBL_ACCOUNTS_CALLS_1_FROM_CALLS_TITLE'] = 'Llamadas';
+$mod_strings['LBL_ACCOUNTS_OF_OFERTA_1_FROM_OF_OFERTA_TITLE'] = 'Oferta';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_ACCOUNTS_MEETINGS_1_FROM_MEETINGS_TITLE'] = 'Reuniones';
+$mod_strings['LBL_ACCOUNTS_CALLS_1_FROM_CALLS_TITLE'] = 'Llamadas';
+
+?>

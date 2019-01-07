@@ -1,0 +1,2 @@
+Fri May 25 11:25:36 2018 [4358][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+Fri May 25 11:26:21 2018 [4356][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
