@@ -1,2 +1,0 @@
-mysqldump -uroot -ptoor --lock-tables --databases suitecrm > /home/gerard/dumps/db_$(date +%F).sql
-echo "Database Saved"
